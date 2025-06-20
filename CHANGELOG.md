@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -15,6 +15,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`571f40f`](https://github.com/stdlib-js/stdlib/commit/571f40f7a5e214203e091e694adbd91da218c214) - remove unused eps dependency from build task in beta/mode
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -34,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`571f40f`](https://github.com/stdlib-js/stdlib/commit/571f40f7a5e214203e091e694adbd91da218c214) - **fix:** remove unused eps dependency from build task in beta/mode _(by Philipp Burckhardt)_
 -   [`d87dd71`](https://github.com/stdlib-js/stdlib/commit/d87dd71ce7fcfbc3af99acd57d13604b877fbb7b) - **bench:** update random value generation [(#6812)](https://github.com/stdlib-js/stdlib/pull/6812) _(by Harsh)_
 -   [`b7ca1bd`](https://github.com/stdlib-js/stdlib/commit/b7ca1bd43ab7777ea30f52b4f1392a78f3ad7b1b) - **docs:** replace manual `for` loop in examples [(#6793)](https://github.com/stdlib-js/stdlib/pull/6793) _(by Harsh)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
