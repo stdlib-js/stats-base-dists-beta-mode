@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-20)
+## Unreleased (2025-06-22)
 
 <section class="features">
 
@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f4db760`](https://github.com/stdlib-js/stdlib/commit/f4db760aad4b1c889341eb7d531b13fbd529226f) - **docs:** update `stats/base/dists/beta` examples to use Greek symbols in format strings _(by Philipp Burckhardt)_
 -   [`571f40f`](https://github.com/stdlib-js/stdlib/commit/571f40f7a5e214203e091e694adbd91da218c214) - **fix:** remove unused eps dependency from build task in beta/mode _(by Philipp Burckhardt)_
 -   [`d87dd71`](https://github.com/stdlib-js/stdlib/commit/d87dd71ce7fcfbc3af99acd57d13604b877fbb7b) - **bench:** update random value generation [(#6812)](https://github.com/stdlib-js/stdlib/pull/6812) _(by Harsh)_
 -   [`b7ca1bd`](https://github.com/stdlib-js/stdlib/commit/b7ca1bd43ab7777ea30f52b4f1392a78f3ad7b1b) - **docs:** replace manual `for` loop in examples [(#6793)](https://github.com/stdlib-js/stdlib/pull/6793) _(by Harsh)_
